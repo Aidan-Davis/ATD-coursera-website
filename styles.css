@@ -13,7 +13,7 @@
         text-align: center;
         font-family: Times New Roman;
         font-weight: bold;
-        font-size: 175%;
+        font-size: 200%;
     }
 
     section {
@@ -24,7 +24,7 @@
 
     p {
         position: relative;
-        clear: right;
+        clear: center;
     }
 
     div {
